@@ -15,7 +15,7 @@
 | **Written On** | May 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/shesh-bikel/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get License For Shesh Bikel](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/shesh-bikel/) |
+| **Get License** | [Official Music Licensing for Shesh Bikel](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/shesh-bikel/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> শেষ বিকেলের আলোয় তুমি কোথায় হারিয়ে যাও.. কোথায় হারিয়ে যাও..
+> অচিন দেশের মেঘের ছায়ায় আমায় কেন কাঁদাও.. আমায় কেন কাঁদাও..
+> বুকের ভেতর একলা নদী বইছে তোমার আশায়.. তোমার আশায়..
+> নীরব রাতের অন্ধকারে খুঁজছি তোমায় তারায়.. তোমায় তারায়..
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
