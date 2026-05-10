@@ -15,7 +15,7 @@
 | **Written On** | May 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/shesh-bikel/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Official Music Licensing for Shesh Bikel](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/shesh-bikel/) |
+| **Get License** | [Music Rights & Licensing for Shesh Bikel](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/shesh-bikel/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `9b219093ea3c97e248a9d643be7a0fc6288cd8b69b716d4879d1479191567083` |
 | **Timestamp** | May 10, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
